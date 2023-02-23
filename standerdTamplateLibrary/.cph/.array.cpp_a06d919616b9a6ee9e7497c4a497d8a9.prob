@@ -1,0 +1,1 @@
+{"name":"Local: array","url":"c:\\cpp\\standerdTamplateLibrary\\array.cpp","tests":[{"id":1672768426704,"input":"","output":"1 2 3 4 \nElement at 2nd index -->3\nisEmpty -->0\nFront element -->1\nLast elment -->4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\standerdTamplateLibrary\\array.cpp","group":"local","local":true}

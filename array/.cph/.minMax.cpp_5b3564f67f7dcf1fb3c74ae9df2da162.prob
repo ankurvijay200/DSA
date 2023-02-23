@@ -1,0 +1,1 @@
+{"name":"Local: minMax","url":"c:\\cpp\\array\\minMax.cpp","tests":[{"id":1668849573955,"input":"5\n1 4 6 2 3","output":"Min :1\nMax :6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\minMax.cpp","group":"local","local":true}

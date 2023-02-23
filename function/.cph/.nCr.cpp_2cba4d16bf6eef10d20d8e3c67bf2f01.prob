@@ -1,0 +1,1 @@
+{"name":"Local: nCr","url":"c:\\cpp\\function\\nCr.cpp","tests":[{"id":1668709333534,"input":"8 2","output":"28"},{"id":1668709356830,"input":"9 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\function\\nCr.cpp","group":"local","local":true}

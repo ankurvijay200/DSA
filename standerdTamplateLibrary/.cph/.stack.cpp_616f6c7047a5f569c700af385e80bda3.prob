@@ -1,0 +1,1 @@
+{"name":"Local: stack","url":"c:\\cpp\\standerdTamplateLibrary\\stack.cpp","tests":[{"id":1672777127134,"input":"","output":"Size -->5\nTop -->Kunal\nTop -->Himanshu\nisEmpty -->0\nSize -->4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\standerdTamplateLibrary\\stack.cpp","group":"local","local":true}

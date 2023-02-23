@@ -1,0 +1,1 @@
+{"name":"Local: oddEven","url":"c:\\cpp\\function\\oddEven.cpp","tests":[{"id":1668708326442,"input":"12","output":"Even"},{"id":1668708333766,"input":"13","output":"Odd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\function\\oddEven.cpp","group":"local","local":true}

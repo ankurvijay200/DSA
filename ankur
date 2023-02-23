@@ -1,0 +1,7 @@
+//basic Git commands.
+git status
+git add .
+git push origin master 
+git commit -m "jo bhi likhna h"
+exit
+clear

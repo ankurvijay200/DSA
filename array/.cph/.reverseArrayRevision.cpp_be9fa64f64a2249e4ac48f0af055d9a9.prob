@@ -1,0 +1,1 @@
+{"name":"Local: reverseArrayRevision","url":"c:\\cpp\\array\\reverseArrayRevision.cpp","tests":[{"id":1668853960789,"input":"5\n1 2 3 4 5","output":"5 4 3 2 1"},{"id":1668853974604,"input":"6\n1 2 3 4 5 6","output":"6 5 4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\reverseArrayRevision.cpp","group":"local","local":true}

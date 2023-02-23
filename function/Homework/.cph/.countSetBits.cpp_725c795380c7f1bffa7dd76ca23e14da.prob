@@ -1,0 +1,1 @@
+{"name":"Local: countSetBits","url":"c:\\cpp\\function\\Homework\\countSetBits.cpp","tests":[{"id":1668775190269,"input":"2 3","output":"3"},{"id":1668788282410,"input":"8 8","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\function\\Homework\\countSetBits.cpp","group":"local","local":true}

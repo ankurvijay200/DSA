@@ -1,0 +1,1 @@
+{"name":"Local: fibnnaci","url":"c:\\cpp\\function\\fibnnaci.cpp","tests":[{"id":1668789020345,"input":"5","output":"3"},{"id":1668789028240,"input":"6","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\function\\fibnnaci.cpp","group":"local","local":true}

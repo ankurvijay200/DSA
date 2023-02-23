@@ -1,0 +1,1 @@
+{"name":"Local: uniqueNumber","url":"c:\\cpp\\array\\uniqueNumber.cpp","tests":[{"id":1668855931231,"input":"5\n1 3 4 1 3","output":"4"},{"id":1668857735143,"input":"6\n1 2 3 1 2 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\uniqueNumber.cpp","group":"local","local":true}

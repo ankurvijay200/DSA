@@ -1,0 +1,1 @@
+{"name":"Local: finalAlgoAndMore","url":"c:\\cpp\\standerdTamplateLibrary\\finalAlgoAndMore.cpp","tests":[{"id":1672861683583,"input":"","output":"5 is present or not : 1\nAfter Sorted --> 1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\standerdTamplateLibrary\\finalAlgoAndMore.cpp","group":"local","local":true}

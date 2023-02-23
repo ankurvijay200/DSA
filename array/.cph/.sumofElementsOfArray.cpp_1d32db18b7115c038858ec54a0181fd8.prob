@@ -1,0 +1,1 @@
+{"name":"Local: sumofElementsOfArray","url":"c:\\cpp\\array\\sumofElementsOfArray.cpp","tests":[{"id":1668851182446,"input":"5\n1 2 3 4 5","output":"Sum : 15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\sumofElementsOfArray.cpp","group":"local","local":true}

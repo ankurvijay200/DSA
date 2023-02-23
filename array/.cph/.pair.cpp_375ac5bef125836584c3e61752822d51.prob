@@ -1,0 +1,1 @@
+{"name":"Local: pair","url":"c:\\cpp\\array\\pair.cpp","tests":[{"id":1669205471215,"input":"5 5\n1 2 3 4 5","output":"1 4\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\pair.cpp","group":"local","local":true}

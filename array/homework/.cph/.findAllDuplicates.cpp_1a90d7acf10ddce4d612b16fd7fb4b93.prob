@@ -1,0 +1,1 @@
+{"name":"Local: findAllDuplicates","url":"c:\\cpp\\array\\homework\\findAllDuplicates.cpp","tests":[{"id":1668954142218,"input":"8\n4 3 2 7 8 2 3 1","output":"2 3"},{"id":1668954152498,"input":"5\n1 2 1 3 3","output":"1 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\homework\\findAllDuplicates.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: awapAdjecent","url":"c:\\cpp\\array\\awapAdjecent.cpp","tests":[{"id":1668854546649,"input":"6\n1 2 3 4 5 6","output":"2 1 4 3 6 5"},{"id":1668854884850,"input":"5\n1 2 3 4 5","output":"2 1 4 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\awapAdjecent.cpp","group":"local","local":true}

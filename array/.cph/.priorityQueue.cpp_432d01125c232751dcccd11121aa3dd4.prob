@@ -1,0 +1,1 @@
+{"name":"Local: priorityQueue","url":"c:\\cpp\\array\\priorityQueue.cpp","tests":[{"id":1672851909989,"input":"","output":"Max heap -->40 30 20 10 \nMin heap -->100 200 300 400 \nMax heap isEmpty -->1\nMin heap isEmpty -->1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\priorityQueue.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: isprime","url":"c:\\cpp\\function\\isprime.cpp","tests":[{"id":1668772299653,"input":"19","output":"Prime"},{"id":1668772306492,"input":"12","output":"Not Prime"},{"id":1675876359385,"input":"17","output":"Prime"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\function\\isprime.cpp","group":"local","local":true}

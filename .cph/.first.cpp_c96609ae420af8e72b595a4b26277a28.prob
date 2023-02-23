@@ -1,0 +1,1 @@
+{"name":"Local: first","url":"c:\\cpp\\first.cpp","tests":[{"id":1671454998285,"input":"121","output":"Palindrome"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\first.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: selectionSort","url":"c:\\cpp\\array\\algo\\selectionSort\\selectionSort.cpp","tests":[{"id":1671539544376,"input":"5\n15 10 14 9 5","output":"5 9 10 14 15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\algo\\selectionSort\\selectionSort.cpp","group":"local","local":true}

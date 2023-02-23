@@ -1,0 +1,1 @@
+{"name":"Local: findDuplicate","url":"c:\\cpp\\array\\findDuplicate.cpp","tests":[{"id":1668952095558,"input":"5\n1 2 3 4 3","output":"3"},{"id":1668952180981,"input":"7 \n1 2 6 4 5 3 6","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpp\\array\\findDuplicate.cpp","group":"local","local":true}
