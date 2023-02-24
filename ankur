@@ -1,4 +1,4 @@
-//-----basic Git commands.
+//----basic Git commands.
 git status
 git add .
 git push origin master 
