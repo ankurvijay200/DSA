@@ -20,4 +20,3 @@ int main(){
 
     cout<<setBits(a)+setBits(b);
 }
-
